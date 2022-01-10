@@ -18,4 +18,5 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 3      | [Find the maximum day of a month](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/FindMaxDaysInMonth.cpp) | Find the max day in a month, including leap year. **(Can apply to calculate the next day or the previous day)**
 | 4      | [Using distribution](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/GenerateNumberUsingDistribution.cpp) | Use distribution to generate random numbers.
 | 5      | [Try, catch, exception](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/TryCatchException.cpp) | Practice using try, catch, exception to throw a bug when user input invalid value.
-| 6      | [Time](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Time.cpp) | Take recent time.
+| 6      | [Date and Time](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Time.cpp) | Get current date and time.
+| 7      | [Padding when printing](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/PaddingWhenPrinting.cpp) | Padding something like "0" before day or month.
