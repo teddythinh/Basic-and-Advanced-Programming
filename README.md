@@ -20,3 +20,4 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 5      | [Try, catch, exception](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/TryCatchException.cpp) | Practice using try, catch, exception to throw a bug when user input invalid value.
 | 6      | [Date and Time](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Time.cpp) | Get current date and time.
 | 7      | [Padding when printing](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/PaddingWhenPrinting.cpp) | Padding something like "0" before day or month.
+| 8      | [Function Template](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/FunctionTemplate.cpp) | Use template in functions, borrow the power of compiler to change the type of values.
