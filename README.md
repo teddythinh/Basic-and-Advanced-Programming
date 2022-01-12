@@ -21,10 +21,9 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 6      | [Date and Time](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Time.cpp) | Get current date and time.
 | 7      | [Padding when printing](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/PaddingWhenPrinting.cpp) | Padding something like "0" before day or month.
 | 8      | [Function Template](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/FunctionTemplate.cpp) | Use template in functions, borrow the power of compiler to change the type of values.
-| 9      | [Tuple]() |
-| 10     | [Map]()   |
-| 11     | [Pair]() |
+| 9      | [Tuple](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Tuple.cpp) | Some syntaxs and usage of tuple.
+| 10     | [Map](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Map.cpp) | Some syntaxs and usage of map.
+| 11     | [Pair](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Pair.cpp) | Some syntaxs and usage of pair.
 | 12     | [Regex]() |
 | 13     |  [Pointer]() |
 | 14     | [Smart pointer]() |
-
