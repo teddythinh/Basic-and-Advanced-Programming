@@ -27,3 +27,4 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 12     | [Dictionary]() |
 | 13     |  [Pointer]() |
 | 14     | [Smart pointer]() |
+| 15     | [Pair]() |
