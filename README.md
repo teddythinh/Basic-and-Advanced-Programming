@@ -23,8 +23,8 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 8      | [Function Template](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/FunctionTemplate.cpp) | Use template in functions, borrow the power of compiler to change the type of values.
 | 9      | [Tuple]() |
 | 10     | [Map]()   |
-| 11     | [Regex]() |
-| 12     | [Dictionary]() |
+| 11     | [Pair]() |
+| 12     | [Regex]() |
 | 13     |  [Pointer]() |
 | 14     | [Smart pointer]() |
-| 15     | [Pair]() |
+
