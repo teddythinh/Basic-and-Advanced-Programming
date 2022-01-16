@@ -24,7 +24,7 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 9      | [Tuple](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Tuple.cpp) | Some syntaxes and usage of tuple.
 | 10     | [Map](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Map.cpp) | Some syntaxes and usage of map.
 | 11     | [Pair](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Pair.cpp) | Some syntaxes and usage of pair.
-| 12     | [Regex]() |
-| 13     |  [Pointer]() |
+| 12     | [Regex](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Regex.cpp) | Use regular expression to check a string.
+| 13     | [Pointer]() |
 | 14     | [Smart pointer]() |
 | 15     | [Function Overload](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Overload.cpp) | Use function that have same name but different arguments.
