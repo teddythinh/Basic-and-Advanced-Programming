@@ -26,5 +26,5 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 11     | [Pair](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Pair.cpp) | Some syntaxes and usage of pair.
 | 12     | [Regex](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Regex.cpp) | Use regular expression to check a string.
 | 13     | [Pointer](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Pointer.cpp) | Use pointer to calculate and create array.
-| 14     | [Smart pointer]() |
+| 14     | [Smart pointer](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/SmartPointer.cpp) | Using smart pointer in order not to forget to call `delete`. **(Apply to Object-oriented Programming)**
 | 15     | [Function Overload](https://github.com/teddythinh/Basic-and-Advanced-Programming/blob/main/Overload.cpp) | Use function that have same name but different arguments.
