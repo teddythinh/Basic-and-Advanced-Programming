@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// allocate array
 int *allocateArray(int size) {
     int *array = new int[size];
     return array;
