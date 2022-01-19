@@ -3,7 +3,7 @@
 ## Introduction:
 Hi there, welcome to this repo. These are some of the basic and advanced programming tips or techniques that I studied from my university. I will update more and more exercise here. Thanks for taking a look !
 
-**NOTE: I'm not sure that my program runs properly, maybe there are some logical bugs, please feel free to contact me to fix these bugs. Thank you very much !**
+**NOTE: I'm not sure that my program runs properly, maybe there are some logical bugs, please feel free to contact me or open issues to fix these bugs. Thank you very much !**
 
 PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺️☺️
 
